@@ -1,4 +1,4 @@
-# Exapmle of using Job Search API for Golang
+# Example of using Job Search API for Golang
 A trivial application for search a job by SERP API 
 
 #Get your own API key
@@ -11,7 +11,7 @@ $ go build
 
 Do go get for any dendencies if needed
 
-#REST API Limits
+# REST API Limits
 
 For less than 200 req per day it may be free of charge.
 
